@@ -1,17 +1,16 @@
 
 ## Introduction
-[Provide a brief introduction about your team's bug-finding abilities and goals.]
+We detect 1000+ bugs for OS(linux, ROS, etc), database(MariaDB, MySQL, etc), block-chain, protocol systems as well as OSS projects.
 
 ## Total Bugs Found
-![Total Bugs Found](/res/overall.png)
+![Total Bugs Found](res/overall.png)
 
 For detailed information on the bugs we've identified, visit the following links:
-- [CVE Details](https://github.com/THU-WingTecher/Vulnerabilities/res/CVE.md)
-- [CNVD Details](https://github.com/THU-WingTecher/Vulnerabilities/res/CNVD.md)
-- [Other Bugs Details](https://github.com/THU-WingTecher/Vulnerabilities/res/others.md)
+- [CVE Details](res/CVE.md)
+- [CNVD Details](res/CNVD.md)
+- [Other Bugs Details](res/others.md)
 
-## Total Projects Tested
-![Total Projects Tested](https://github.com/THU-WingTecher/Vulnerabilities/res/total_projects_tested.png)
-
-[Additional information or conclusion about the projects tested and the impact of your bug-finding capabilities.]
+# ## Total Projects Tested
+# ![Total Projects Tested](res/num_of_tested_projects.png)
+# 
 
