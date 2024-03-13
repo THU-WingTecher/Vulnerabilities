@@ -57,7 +57,7 @@ For detailed information on the bugs we've identified, visit the following links
 - [Other Bugs Details]({get_rel_path('others.md')})
 
 ## Total Projects Tested
-![Total Projects Tested]({get_rel_path('total_projects_tested.png')})
+![Total Projects Tested]({get_rel_path('num_of_tested_projects.png')})
 
 {self.addintional_info()}
 
