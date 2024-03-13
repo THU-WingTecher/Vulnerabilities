@@ -3,7 +3,7 @@
 [Provide a brief introduction about your team's bug-finding abilities and goals.]
 
 ## Total Bugs Found
-![Total Bugs Found](https://github.com/THU-WingTecher/Vulnerabilities/res/overall.png)
+![Total Bugs Found](/res/overall.png)
 
 For detailed information on the bugs we've identified, visit the following links:
 - [CVE Details](https://github.com/THU-WingTecher/Vulnerabilities/res/CVE.md)
