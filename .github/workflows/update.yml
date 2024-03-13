@@ -38,7 +38,7 @@ jobs:
         git diff
         git config --local user.email "iejw1914@gmail.com"
         git config --local user.name "GwiHwan-Go"
-        git commit -m "Update README.md"
+        git commit -m "GitAction auto-update"
         git push
         } || {
         pass
