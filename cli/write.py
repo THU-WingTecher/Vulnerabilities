@@ -56,9 +56,8 @@ For detailed information on the bugs we've identified, visit the following links
 - [CNVD Details]({get_rel_path('CNVD.md')})
 - [Other Bugs Details]({get_rel_path('others.md')})
 
-## Total Projects Tested
-![Total Projects Tested]({get_rel_path('num_of_tested_projects.png')})
-
-{self.addintional_info()}
+# ## Total Projects Tested
+# ![Total Projects Tested]({get_rel_path('num_of_tested_projects.png')})
+# {self.addintional_info()}
 
 """
