@@ -6,6 +6,9 @@ SHORT_LOCATION = 'CST'
 def get_url(file_name: str) -> str :
     return f"https://github.com/THU-WingTecher/Vulnerabilities/res/{file_name}"
 
+def get_rel_path(file_name: str) -> str :
+    return f"res/{file_name}"
+
 class Writer() :
     def __init__(self) -> None:
         self.path = "Readme.md"
@@ -34,10 +37,11 @@ class Writer() :
         return f'Last updated : {currdate.strftime("%A, %d %b, %H:%M")} {SHORT_LOCATION}'
     
     def introduce(self) -> str :
-        return f"[Provide a brief introduction about your team's bug-finding abilities and goals.]"
+        return f"We detect 1000+ bugs for OS(linux, ROS, etc), database(MariaDB, MySQL, etc), block-chain, protocol systems as well as OSS projects."
     
     def addintional_info(self) -> str :
-        return f"[Additional information or conclusion about the projects tested and the impact of your bug-finding capabilities.]"
+        return ""
+        # return f"[Additional information or conclusion about the projects tested and the impact of your bug-finding capabilities.]"
     def write(self) -> str :
         #FIXME How to validate the file name is right?
         return f"""
