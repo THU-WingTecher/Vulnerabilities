@@ -37,7 +37,7 @@ class Writer() :
         return f'Last updated : {currdate.strftime("%A, %d %b, %H:%M")} {SHORT_LOCATION}'
     
     def introduce(self) -> str :
-        return f"We detect 1000+ bugs for OS(linux, ROS, etc), database(MariaDB, MySQL, etc), block-chain, protocol systems as well as OSS projects."
+        return f"We have detected 1000+ bugs for OS(linux, ROS, etc), database(MariaDB, MySQL, etc), block-chain, protocol systems as well as OSS projects."
     
     def addintional_info(self) -> str :
         return ""
