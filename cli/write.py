@@ -23,7 +23,7 @@ class Writer() :
         with open(self.path, "r") as file :
             return file.read()
 
-    def get_date() :
+    def get_date(self) :
         # Get the current date
         current_date = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')
         if current_date.hour+9 >= 24:
@@ -55,5 +55,6 @@ For detailed information on the bugs we've identified, visit the following links
 - [Other Bugs Details]({get_rel_path('others.md')})
 
 """
+# {self.get_date()}
 # ![Total Projects Tested]({get_rel_path('num_of_tested_projects.png')})
 # {self.addintional_info()}
