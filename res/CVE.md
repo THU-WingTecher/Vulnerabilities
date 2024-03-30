@@ -294,3 +294,20 @@
 | CVE-2023-36369 | MonetDB | SEGV | Marmot |
 | CVE-2023-36370 | MonetDB | SEGV | Marmot |
 | CVE-2023-36371 | MonetDB | SEGV | Marmot |
+| CVE-2023-5868 | PostgreSQL | Memory Disclosure | Marmot |
+| CVE-2023-48945 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48946 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48947 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48948 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48949 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48950 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48951 | Virtuoso | Denial of Service | Marmot |
+| CVE-2023-48952 | Virtuoso | Denial of Service | Marmot |
+| CVE-2024-20971 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20972 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20973 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20974 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20975 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20976 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20977 | MySQL | Denial of Service | Marmot |
+| CVE-2024-20978 | MySQL | Denial of Service | Marmot |
