@@ -104,5 +104,5 @@ def viz_overall_num_of_bugs(data_path, save_dir):
     # Save the plot as a PNG file for the updated fancy total bugs visualization
     plt.savefig(os.path.join(save_dir, "overall.png"), bbox_inches='tight', facecolor=fig.get_facecolor(), dpi=300)
 
-viz_overall_num_of_bugs('data/bugList-WingTecher.xlsx.xlsx', 'res')
-viz_detailed_list('data/bugList-WingTecher.xlsx.xlsx', 'res')
+viz_overall_num_of_bugs('data/bugList-WingTecher.xlsx', 'res')
+viz_detailed_list('data/bugList-WingTecher.xlsx', 'res')

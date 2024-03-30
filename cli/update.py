@@ -14,6 +14,6 @@ def main(data_path, save_dir) :
 
 if __name__ == "__main__" :
     import sys 
-    data_path = sys.argv[1] if len(sys.argv) > 1 else "data/bugList-WingTecher.xlsx.xlsx"
+    data_path = sys.argv[1] if len(sys.argv) > 1 else "data/bugList-WingTecher.xlsx"
     save_dir = sys.argv[2] if len(sys.argv) > 2 else "res"
     main(data_path, save_dir)
